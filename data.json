@@ -1,0 +1,208 @@
+{
+  "settings": {
+    "idleTimeoutSeconds": 45,
+    "defaultLanguage": "en"
+  },
+  "fish": [
+    {
+      "id": "fish1",
+      "image": "images/fish1.jpg",
+      "names": {
+        "en": "Clownfish",
+        "ba": "Ikan Badut",
+        "cn": "小丑鱼",
+        "ru": "Рыба-клоун",
+        "ko": "흰동가리"
+      },
+      "facts": {
+        "en": "Clownfish are famous for their symbiotic relationship with sea anemones. While most fish would be stung by the anemone's tentacles, clownfish have a protective mucus layer that keeps them safe. In return for a safe home, the clownfish cleans the anemone, provides nutrients through its waste, and scares away polyp-eating fish. \n\n These vibrant orange and white fish are also protandrous hermaphrodites, meaning they are all born male. They live in groups dominated by a breeding pair, where the largest is the female. If the female dies, the dominant male changes sex to become the new female, ensuring the survival of their lineage.",
+        "ba": "Ikan badut terkenal dengan hubungan simbiosisnya dengan anemon laut. Sementara sebagian besar ikan akan tersengat oleh tentakel anemon, ikan badut memiliki lapisan lendir pelindung yang membuat mereka tetap aman. Sebagai imbalan atas rumah yang aman, ikan badut membersihkan anemon, memberikan nutrisi melalui kotorannya, dan menakuti ikan pemakan polip. \n\n Ikan berwarna oranye dan putih yang cerah ini juga merupakan hermafrodit protandrous, yang berarti mereka semua terlahir jantan. Mereka hidup dalam kelompok yang didominasi oleh pasangan kawin, di mana yang terbesar adalah betina. Jika betina mati, jantan yang dominan akan berubah jenis kelamin menjadi betina baru, memastikan kelangsungan garis keturunan mereka.",
+        "cn": "小丑鱼以其与海葵的共生关系而闻名。虽然大多数鱼会被海葵的触手刺伤，但小丑鱼有一层保护性的粘液层，使它们安然无恙。作为对安全家园的回报，小丑鱼会清洁海葵，通过排泄物提供养分，并吓跑吃珊瑚虫的鱼。\n\n 这些鲜艳的橙白相间的鱼也是雄性先熟的雌雄同体生物，这意味着它们出生时都是雄性。它们生活在由一对繁殖伴侣主导的群体中，其中体型最大的是雌性。如果雌性死亡，占主导地位的雄性会改变性别成为新的雌性，从而确保其后代的生存。",
+        "ru": "Рыбы-клоуны известны своими симбиотическими отношениями с морскими анемонами. В то время как большинство рыб получают ожоги от щупалец анемона, рыбы-клоуны имеют защитный слой слизи, который обеспечивает им безопасность. В обмен на безопасный дом рыба-клоун чистит анемон, обеспечивает его питательными веществами и отпугивает рыб, поедающих полипы.\n\n Эти яркие оранжево-белые рыбы также являются протандрическими гермафродитами, то есть все они рождаются самцами. Они живут группами, где доминирует размножающаяся пара, а самой крупной особью является самка. Если самка погибает, доминантный самец меняет пол и становится новой самкой, обеспечивая выживание своего рода.",
+        "ko": "흰동가리는 말미잘과의 공생 관계로 유명합니다. 대부분의 물고기는 말미잘의 촉수에 쏘이지만, 흰동가리는 보호 점액층이 있어 안전합니다. 안전한 집을 제공받는 대가로 흰동가리는 말미잘을 청소하고 배설물을 통해 영양분을 공급하며 폴립을 먹는 물고기를 쫓아냅니다.\n\n 이 선명한 주황색과 흰색 물고기는 또한 웅성 선숙 자웅동체로, 모두 수컷으로 태어납니다. 그들은 번식 쌍이 지배하는 무리를 지어 살며, 가장 큰 개체가 암컷입니다. 암컷이 죽으면 우두머리 수컷이 성을 바꿔 새로운 암컷이 되어 종족의 생존을 보장합니다."
+      },
+      "short_facts": {
+        "en": "Lives in a symbiotic relationship with sea anemones. All are born male and can change sex.",
+        "ba": "Hidup dalam hubungan simbiosis dengan anemon laut. Semua terlahir jantan dan bisa berganti kelamin.",
+        "cn": "与海葵共生。所有个体出生时均为雄性，并可进行性别转换。",
+        "ru": "Живет в симбиозе с морскими анемонами. Все рождаются самцами и могут менять пол.",
+        "ko": "말미잘과 공생 관계에 있습니다. 모두 수컷으로 태어나며 성전환이 가능합니다."
+      }
+    },
+    {
+      "id": "fish2",
+      "image": "images/fish2.jpg",
+      "names": {
+        "en": "Mandarin Dragonet",
+        "ba": "Ikan Mandarin",
+        "cn": "麒麟鱼",
+        "ru": "Мандаринка",
+        "ko": "만다린피쉬"
+      },
+      "facts": {
+        "en": "The Mandarin Dragonet is arguably one of the most beautiful fish in the ocean, displaying a psychedelic pattern of blue, orange, and green. Unlike most blue animals that rely on light refraction to appear blue, this species possesses true blue pigment cells called cyanophores. They are slow-moving bottom dwellers that feed on tiny crustaceans called copepods.\n\n Found in the Pacific, ranging from the Ryukyu Islands to Australia, they prefer sheltered lagoons and inshore reefs. Despite their popularity in the aquarium trade, they are notoriously difficult to keep because of their specific dietary requirements. They are also scaleless and protected by a thick, foul-tasting mucus coating.",
+        "ba": "Ikan Mandarin bisa dibilang salah satu ikan terindah di lautan, menampilkan pola psikedelik biru, oranye, dan hijau. Tidak seperti kebanyakan hewan biru yang mengandalkan pembiasan cahaya untuk terlihat biru, spesies ini memiliki sel pigmen biru sejati yang disebut cyanophores. Mereka adalah penghuni dasar yang bergerak lambat dan memakan krustasea kecil yang disebut copepoda.\n\n Ditemukan di Pasifik, mulai dari Kepulauan Ryukyu hingga Australia, mereka lebih menyukai laguna terlindung dan terumbu karang pantai. Meskipun populer dalam perdagangan akuarium, mereka sangat sulit dipelihara karena kebutuhan diet khusus mereka. Mereka juga tidak bersisik dan dilindungi oleh lapisan lendir tebal yang rasanya tidak enak.",
+        "cn": "麒麟鱼可以说是海洋中最美丽的鱼类之一，展现出蓝色、橙色和绿色的迷幻图案。与大多数依靠光折射呈现蓝色的蓝色动物不同，该物种拥有真正的蓝色色素细胞，称为青色素细胞。它们是行动缓慢的底栖生物，以称为桡足类的微小甲壳类动物为食。\n\n 它们分布在太平洋，从琉球群岛到澳大利亚，更喜欢隐蔽的泻湖和近岸珊瑚礁。尽管它们在水族馆贸易中很受欢迎，但由于其特殊的饮食要求，众所周知很难饲养。它们也没有鳞片，并受到一层厚厚的、味道难闻的粘液层的保护。",
+        "ru": "Мандаринка, пожалуй, одна из самых красивых рыб в океане, демонстрирующая психоделический узор из синего, оранжевого и зеленого цветов. В отличие от большинства синих животных, которые полагаются на преломление света, этот вид обладает настоящими синими пигментными клетками, называемыми цианофорами. Это медлительные донные обитатели, питающиеся крошечными ракообразными.\n\n Обитая в Тихом океане, от островов Рюкю до Австралии, они предпочитают защищенные лагуны и прибрежные рифы. Несмотря на популярность в аквариумистике, их очень трудно содержать из-за специфических требований к питанию. У них также нет чешуи, и они защищены толстым слоем неприятной на вкус слизи.",
+        "ko": "만다린피쉬는 바다에서 가장 아름다운 물고기 중 하나로, 파란색, 주황색, 녹색의 환상적인 패턴을 자랑합니다. 빛의 굴절에 의존해 파란색을 띠는 대부분의 파란색 동물과 달리, 이 종은 시아노포어라는 진짜 파란색 색소 세포를 가지고 있습니다. 이들은 느리게 움직이는 저서 생물로 코페포드라는 작은 갑각류를 먹고 삽니다.\n\n 류큐 제도에서 호주에 이르는 태평양에서 발견되며, 보호된 석호와 연안 산호초를 선호합니다. 관상어로서 인기가 많지만 까다로운 식성 때문에 기르기가 매우 어렵기로 유명합니다. 또한 비늘이 없으며 맛이 고약한 두꺼운 점액질로 보호받습니다."
+      },
+      "short_facts": {
+        "en": "One of the most colorful fish, it has true blue pigment and a very specific diet.",
+        "ba": "Salah satu ikan paling berwarna, memiliki pigmen biru sejati dan pola makan yang sangat spesifik.",
+        "cn": "色彩最鲜艳的鱼类之一，拥有真正的蓝色素，饮食要求非常特殊。",
+        "ru": "Одна из самых красочных рыб, имеет настоящий синий пигмент и очень специфическую диету.",
+        "ko": "가장 화려한 물고기 중 하나로, 진정한 파란색 색소를 가지고 있으며 매우 특정한 식단을 가집니다."
+      }
+    },
+    {
+      "id": "fish3",
+      "image": "images/fish3.jpg",
+      "names": {
+        "en": "Sea Goldie",
+        "ba": "Ikan Emas Laut",
+        "cn": "丝鳍拟花鮨",
+        "ru": "Антиас",
+        "ko": "안티아스"
+      },
+      "facts": {
+        "en": "The Sea Goldie is a small, vibrant fish belonging to the subfamily Anthiinae. They are protogynous hermaphrodites, meaning all individuals are born female. They live in large schools organized into harems, consisting of one dominant male and several females. The male is easily distinguished by his brighter colors and an elongated third ray on the dorsal fin.\n\n If the male of the group disappears or dies, the largest and most dominant female will undergo a remarkable transformation. Within a few weeks, she changes color, grows larger, and becomes the new male of the harem. This adaptation ensures that the school always has a reproductive male to continue the population.",
+        "ba": "Ikan Emas Laut adalah ikan kecil yang hidup dan termasuk dalam subfamili Anthiinae. Mereka adalah hermafrodit protogini, yang berarti semua individu terlahir betina. Mereka hidup dalam kelompok besar yang diatur menjadi harem, yang terdiri dari satu jantan dominan dan beberapa betina. Jantan mudah dibedakan dari warnanya yang lebih cerah dan sinar ketiga yang memanjang pada sirip punggung.\n\n Jika jantan dalam kelompok menghilang atau mati, betina terbesar dan paling dominan akan mengalami transformasi yang luar biasa. Dalam beberapa minggu, dia berubah warna, tumbuh lebih besar, dan menjadi jantan baru dalam harem. Adaptasi ini memastikan bahwa kelompok tersebut selalu memiliki jantan reproduktif untuk melanjutkan populasi.",
+        "cn": "丝鳍拟花鮨是一种属于花鮨亚科的小型活力鱼类。它们是雌性先熟的雌雄同体生物，这意味着所有个体出生时都是雌性。它们生活在组织成后宫的大型鱼群中，由一条占主导地位的雄性和几条雌性组成。雄性很容易通过其更鲜艳的颜色和背鳍上延长的第三根鳍条来区分。\n\n 如果群体中的雄性消失或死亡，最大且占主导地位的雌性将经历一次非凡的转变。在几周内，她会改变颜色，长得更大，并成为后宫的新雄性。这种适应确保了鱼群始终有一条具有繁殖能力的雄性来延续种群。",
+        "ru": "Антиас — это небольшая яркая рыбка, принадлежащая к подсемейству Anthiinae. Они являются протогинными гермафродитами, то есть все особи рождаются самками. Они живут большими стаями, организованными в гаремы, состоящие из одного доминантного самца и нескольких самок. Самца легко отличить по более яркой окраске и удлиненному третьему лучу спинного плавника.\n\n Если самец группы исчезает или умирает, самая крупная и доминантная самка претерпевает удивительную трансформацию. В течение нескольких недель она меняет цвет, увеличивается в размерах и становится новым самцом гарема. Эта адаптация гарантирует, что в стае всегда есть репродуктивный самец для продолжения популяции.",
+        "ko": "안티아스는 안티아스아과에 속하는 작고 활기찬 물고기입니다. 이들은 자성 선숙 자웅동체로, 모든 개체가 암컷으로 태어납니다. 이들은 한 마리의 우두머리 수컷과 여러 마리의 암컷으로 구성된 하렘을 이루어 큰 무리를 지어 삽니다. 수컷은 더 밝은 색상과 등지느러미의 길게 뻗은 세 번째 가시로 쉽게 구별할 수 있습니다.\n\n 무리의 수컷이 사라지거나 죽으면, 가장 크고 우세한 암컷이 놀라운 변화를 겪습니다. 몇 주 안에 색이 바뀌고 몸집이 커지며 하렘의 새로운 수컷이 됩니다. 이러한 적응은 무리에 항상 번식 가능한 수컷이 있어 개체군을 유지할 수 있도록 합니다."
+      },
+      "short_facts": {
+        "en": "Born female, the most dominant can transform into a male for the harem.",
+        "ba": "Terlahir sebagai betina, yang paling dominan dapat berubah menjadi jantan untuk harem.",
+        "cn": "出生时为雌性，最具统治力的个体会转变为雄性，主宰后宫。",
+        "ru": "Рождаются самками, но самая доминантная может превратиться в самца для гарема.",
+        "ko": "암컷으로 태어나며, 가장 우세한 개체는 하렘을 위해 수컷으로 변신할 수 있습니다."
+      }
+    },
+    {
+      "id": "fish4",
+      "image": "images/fish4.jpg",
+      "names": {
+        "en": "Copperband Butterflyfish",
+        "ba": "Ikan Kepe-Kepe Tembaga",
+        "cn": "钻嘴鱼",
+        "ru": "Меднополосая бабочка",
+        "ko": "카퍼밴드 버터플라이피쉬"
+      },
+      "facts": {
+        "en": "The Copperband Butterflyfish is easily recognized by its vertical orange bands and long, slender snout. This specialized mouth allows it to reach into narrow crevices and holes in the coral reef to pick out small invertebrates, worms, and crustaceans that other fish cannot reach. They are often found alone or in pairs on rocky and coral reefs.\n\n Interestingly, they have a false eyespot on the rear of their dorsal fin. This spot confuses predators into attacking the wrong end of the fish, giving the butterflyfish a chance to escape. While beautiful, they are known to be delicate and can be challenging to feed in captivity, often requiring a diet of live food.",
+        "ba": "Ikan Kepe-Kepe Tembaga mudah dikenali dari pita oranye vertikal dan moncongnya yang panjang dan ramping. Mulut khusus ini memungkinkannya menjangkau celah-celah sempit dan lubang di terumbu karang untuk mengambil invertebrata kecil, cacing, dan krustasea yang tidak dapat dijangkau ikan lain. Mereka sering ditemukan sendirian atau berpasangan di terumbu karang dan berbatu.\n\n Menariknya, mereka memiliki bintik mata palsu di bagian belakang sirip punggung mereka. Bintik ini membingungkan predator untuk menyerang ujung ikan yang salah, memberi ikan kepe-kepe kesempatan untuk melarikan diri. Meskipun indah, mereka dikenal rapuh dan sulit diberi makan di penangkaran, seringkali membutuhkan makanan hidup.",
+        "cn": "钻嘴鱼很容易通过其垂直的橙色条纹和细长的吻部识别。这种特殊的嘴使它能够深入珊瑚礁的狭窄裂缝和孔洞中，挑选出其他鱼类无法触及的小型无脊椎动物、蠕虫和甲壳类动物。它们通常单独或成对出现在岩石和珊瑚礁上。\n\n 有趣的是，它们的背鳍后部有一个假眼斑。这个斑点会迷惑捕食者攻击鱼的错误一端，从而给钻嘴鱼逃跑的机会。虽然美丽，但众所周知它们很娇气，在人工饲养中很难喂养，通常需要活食。",
+        "ru": "Меднополосую бабочку легко узнать по вертикальным оранжевым полосам и длинному тонкому рылу. Этот специализированный рот позволяет ей проникать в узкие расщелины и отверстия в коралловых рифах, чтобы доставать мелких беспозвоночных, червей и ракообразных, недоступных другим рыбам. Их часто можно встретить поодиночке или парами на скалистых и коралловых рифах.\n\n Интересно, что у них есть ложное глазное пятно на задней части спинного плавника. Это пятно сбивает хищников с толку, заставляя атаковать не тот конец рыбы, что дает бабочке шанс спастись. Несмотря на красоту, они известны своей деликатностью, и их трудно кормить в неволе.",
+        "ko": "카퍼밴드 버터플라이피쉬는 수직 주황색 띠와 길고 가느다란 주둥이로 쉽게 알아볼 수 있습니다. 이 특수한 입 덕분에 산호초의 좁은 틈새와 구멍에 닿아 다른 물고기가 닿을 수 없는 작은 무척추동물, 벌레, 갑각류를 잡아먹을 수 있습니다. 바위와 산호초에서 혼자 또는 쌍으로 발견되는 경우가 많습니다.\n\n 흥미롭게도 등지느러미 뒤쪽에 가짜 눈무늬가 있습니다. 이 점은 포식자가 물고기의 엉뚱한 부분을 공격하도록 혼란스럽게 하여 버터플라이피쉬가 도망칠 기회를 줍니다. 아름답지만 예민한 것으로 알려져 있으며 사육 시 먹이를 주기가 까다로워 종종 살아있는 먹이가 필요합니다."
+      },
+      "short_facts": {
+        "en": "Uses its long snout to hunt in crevices and has a false eyespot to confuse predators.",
+        "ba": "Menggunakan moncong panjangnya untuk berburu di celah-celah dan memiliki bintik mata palsu untuk membingungkan predator.",
+        "cn": "用其长吻在缝隙中捕食，并有一个假眼点来迷惑捕食者。",
+        "ru": "Использует свой длинный нос для охоты в расщелинах и имеет ложный глаз, чтобы сбить с толку хищников.",
+        "ko": "긴 주둥이를 사용해 틈새에서 사냥하며, 포식자를 혼란시키기 위한 가짜 눈 점이 있습니다."
+      }
+    },
+    {
+      "id": "fish5",
+      "image": "images/fish5.jpg",
+      "names": {
+        "en": "Moon Wrasse",
+        "ba": "Ikan Nuri",
+        "cn": "新月锦鱼",
+        "ru": "Лунный талассома",
+        "ko": "문 래스"
+      },
+      "facts": {
+        "en": "The Moon Wrasse, also known as the Lunare Wrasse, is a hyperactive swimmer that patrols the reef with constant energy. Instead of using their tail for propulsion like many other fish, they 'fly' through the water using their pectoral fins, giving them a unique, bouncing swimming style. They are carnivorous and opportunistic, feeding on fish eggs, small invertebrates, and snails.\n\n As they mature, their appearance changes drastically. Juveniles often have a dark spot on their tail, while adults develop vibrant green and blue coloration with pink markings on their face. Like many wrasses, they bury themselves in the sand at night to sleep, protecting themselves from nocturnal predators.",
+        "ba": "Ikan Nuri, juga dikenal sebagai Lunare Wrasse, adalah perenang hiperaktif yang berpatroli di terumbu karang dengan energi konstan. Alih-alih menggunakan ekor untuk propulsi seperti banyak ikan lainnya, mereka 'terbang' di air menggunakan sirip dada, memberi mereka gaya berenang yang unik dan memantul. Mereka karnivora dan oportunistik, memakan telur ikan, invertebrata kecil, dan siput.\n\n Saat mereka dewasa, penampilan mereka berubah drastis. Remaja sering memiliki bintik gelap di ekornya, sementara dewasa mengembangkan warna hijau dan biru cerah dengan tanda merah muda di wajah. Seperti banyak ikan nuri lainnya, mereka mengubur diri di pasir pada malam hari untuk tidur, melindungi diri dari predator nokturnal.",
+        "cn": "新月锦鱼，也被称为月亮隆头鱼，是一种极其活跃的游泳者，总是精力充沛地在珊瑚礁巡逻。它们不像许多其他鱼类那样使用尾巴作为推进力，而是利用胸鳍在水中“飞行”，这赋予了它们独特的跳跃式游泳风格。它们是肉食性和机会主义者，以鱼卵、小型无脊椎动物和蜗牛为食。\n\n 随着它们的成熟，它们的外观会发生巨大的变化。幼鱼的尾巴上通常有一个黑点，而成鱼则会呈现出鲜艳的绿色和蓝色，脸上带有粉红色的斑纹。像许多隆头鱼一样，它们晚上把自己埋在沙子里睡觉，以保护自己免受夜行性捕食者的侵害。",
+        "ru": "Лунный талассома — гиперактивный пловец, который с постоянной энергией патрулирует риф. Вместо того чтобы использовать хвост для движения, как многие другие рыбы, они «летают» в воде с помощью грудных плавников, что придает им уникальный стиль плавания. Они плотоядны и оппортунистичны, питаются икрой рыб, мелкими беспозвоночными и улитками.\n\n По мере взросления их внешность кардинально меняется. У молоди часто есть темное пятно на хвосте, в то время как у взрослых особей появляется яркая зелено-синяя окраска с розовыми отметинами на морде. Как и многие губаны, они зарываются в песок на ночь, чтобы поспать, защищаясь от ночных хищников.",
+        "ko": "문 래스는 끊임없는 에너지로 산호초를 순찰하는 매우 활동적인 수영 선수입니다. 다른 많은 물고기처럼 꼬리를 추진력으로 사용하는 대신 가슴지느러미를 사용하여 물속을 '날아다니듯' 헤엄치며 독특하고 통통 튀는 수영 스타일을 보여줍니다. 육식성이며 기회주의적으로 물고기 알, 작은 무척추동물, 달팽이를 먹습니다.\n\n 성숙함에 따라 외모가 급격히 변합니다. 어린 물고기는 꼬리에 검은 점이 있는 경우가 많지만, 성체는 얼굴에 분홍색 무늬가 있는 선명한 녹색과 파란색을 띠게 됩니다. 많은 래스류와 마찬가지로 밤에는 모래 속에 몸을 파묻고 잠을 자며 야행성 포식자로부터 자신을 보호합니다."
+      },
+      "short_facts": {
+        "en": "An energetic swimmer that 'flies' with its pectoral fins and buries itself in sand to sleep.",
+        "ba": "Perenang energik yang 'terbang' dengan sirip dada dan mengubur diri di pasir untuk tidur.",
+        "cn": "一种精力充沛的游泳者，用胸鳍“飞行”，并把自己埋在沙子里睡觉。",
+        "ru": "Энергичный пловец, который «летает» с помощью грудных плавников и зарывается в песок, чтобы спать.",
+        "ko": "가슴지느러미로 '날아다니는' 활기찬 수영 선수이며, 잠을 자기 위해 모래 속에 몸을 묻습니다."
+      }
+    },
+    {
+      "id": "fish6",
+      "image": "images/fish6.jpg",
+      "names": {
+        "en": "Clownfish",
+        "ba": "Ikan Badut",
+        "cn": "小丑鱼",
+        "ru": "Рыба-клоун",
+        "ko": "흰동가리"
+      },
+      "facts": {
+        "en": "Clownfish are famous for their symbiotic relationship with sea anemones. While most fish would be stung by the anemone's tentacles, clownfish have a protective mucus layer that keeps them safe. In return for a safe home, the clownfish cleans the anemone, provides nutrients through its waste, and scares away polyp-eating fish. \n\n These vibrant orange and white fish are also protandrous hermaphrodites, meaning they are all born male. They live in groups dominated by a breeding pair, where the largest is the female. If the female dies, the dominant male changes sex to become the new female, ensuring the survival of their lineage.",
+        "ba": "Ikan badut terkenal dengan hubungan simbiosisnya dengan anemon laut. Sementara sebagian besar ikan akan tersengat oleh tentakel anemon, ikan badut memiliki lapisan lendir pelindung yang membuat mereka tetap aman. Sebagai imbalan atas rumah yang aman, ikan badut membersihkan anemon, memberikan nutrisi melalui kotorannya, dan menakuti ikan pemakan polip. \n\n Ikan berwarna oranye dan putih yang cerah ini juga merupakan hermafrodit protandrous, yang berarti mereka semua terlahir jantan. Mereka hidup dalam kelompok yang didominasi oleh pasangan kawin, di mana yang terbesar adalah betina. Jika betina mati, jantan yang dominan akan berubah jenis kelamin menjadi betina baru, memastikan kelangsungan garis keturunan mereka.",
+        "cn": "小丑鱼以其与海葵的共生关系而闻名。虽然大多数鱼会被海葵的触手刺伤，但小丑鱼有一层保护性的粘液层，使它们安然无恙。作为对安全家园的回报，小丑鱼会清洁海葵，通过排泄物提供养分，并吓跑吃珊瑚虫的鱼。\n\n 这些鲜艳的橙白相间的鱼也是雄性先熟的雌雄同体生物，这意味着它们出生时都是雄性。它们生活在由一对繁殖伴侣主导的群体中，其中体型最大的是雌性。如果雌性死亡，占主导地位的雄性会改变性别成为新的雌性，从而确保其后代的生存。",
+        "ru": "Рыбы-клоуны известны своими симбиотическими отношениями с морскими анемонами. В то время как большинство рыб получают ожоги от щупалец анемона, рыбы-клоуны имеют защитный слой слизи, который обеспечивает им безопасность. В обмен на безопасный дом рыба-клоун чистит анемон, обеспечивает его питательными веществами и отпугивает рыб, поедающих полипы.\n\n Эти яркие оранжево-белые рыбы также являются протандрическими гермафродитами, то есть все они рождаются самцами. Они живут группами, где доминирует размножающаяся пара, а самой крупной особью является самка. Если самка погибает, доминантный самец меняет пол и становится новой самкой, обеспечивая выживание своего рода.",
+        "ko": "흰동가리는 말미잘과의 공생 관계로 유명합니다. 대부분의 물고기는 말미잘의 촉수에 쏘이지만, 흰동가리는 보호 점액층이 있어 안전합니다. 안전한 집을 제공받는 대가로 흰동가리는 말미잘을 청소하고 배설물을 통해 영양분을 공급하며 폴립을 먹는 물고기를 쫓아냅니다.\n\n 이 선명한 주황색과 흰색 물고기는 또한 웅성 선숙 자웅동체로, 모두 수컷으로 태어납니다. 그들은 번식 쌍이 지배하는 무리를 지어 살며, 가장 큰 개체가 암컷입니다. 암컷이 죽으면 우두머리 수컷이 성을 바꿔 새로운 암컷이 되어 종족의 생존을 보장합니다."
+      },
+      "short_facts": {
+        "en": "Lives in a symbiotic relationship with sea anemones. All are born male and can change sex.",
+        "ba": "Hidup dalam hubungan simbiosis dengan anemon laut. Semua terlahir jantan dan bisa berganti kelamin.",
+        "cn": "与海葵共生。所有个体出生时均为雄性，并可进行性别转换。",
+        "ru": "Живет в симбиозе с морскими анемонами. Все рождаются самцами и могут менять пол.",
+        "ko": "말미잘과 공생 관계에 있습니다. 모두 수컷으로 태어나며 성전환이 가능합니다."
+      }
+    },
+    {
+      "id": "fish7",
+      "image": "images/fish7.jpg",
+      "names": {
+        "en": "Yellow Tang",
+        "ba": "Ikan Tang Kuning",
+        "cn": "黄高鳍刺尾鱼",
+        "ru": "Желтая зебрасома",
+        "ko": "옐로우 탱"
+      },
+      "facts": {
+        "en": "The Yellow Tang is one of the most iconic fish of the Hawaiian reefs. Its bright, electric yellow body makes it impossible to miss. These fish play a crucial role in the ecosystem as grazers. They spend their days swimming in schools, feeding on algae that grows on the coral. By keeping the algae in check, they prevent it from smothering the coral reefs.\n\n At night, the Yellow Tang's bright color fades slightly to a duller shade with a white lateral stripe, helping it blend into the dark reef structure. They possess a sharp, scalpel-like spine near their tail, which they use for defense against predators and rivals, earning them the family name 'Surgeonfish'.",
+        "ba": "Ikan Tang Kuning adalah salah satu ikan paling ikonik di terumbu karang Hawaii. Tubuhnya yang berwarna kuning elektrik cerah membuatnya mustahil untuk dilewatkan. Ikan ini memainkan peran penting dalam ekosistem sebagai pemakan rumput. Mereka menghabiskan hari-hari mereka berenang dalam kelompok, memakan alga yang tumbuh di karang. Dengan mengendalikan alga, mereka mencegahnya menutupi terumbu karang.\n\n Pada malam hari, warna cerah Ikan Tang Kuning sedikit memudar menjadi warna yang lebih kusam dengan garis lateral putih, membantunya menyatu dengan struktur terumbu yang gelap. Mereka memiliki tulang belakang yang tajam seperti pisau bedah di dekat ekornya, yang mereka gunakan untuk pertahanan terhadap predator dan saingan, sehingga mereka mendapat nama keluarga 'Surgeonfish' (Ikan Bedah).",
+        "cn": "黄高鳍刺尾鱼是夏威夷珊瑚礁最具标志性的鱼类之一。其明亮的电黄色身体让人过目难忘。这些鱼作为食草动物在生态系统中发挥着至关重要的作用。它们整天成群结队地游泳，以生长在珊瑚上的藻类为食。通过控制藻类，它们可以防止藻类窒息珊瑚礁。\n\n 在晚上，黄高鳍刺尾鱼明亮的颜色会稍微褪色，变成带有白色侧条纹的暗淡色调，这有助于它融入黑暗的珊瑚礁结构中。它们的尾巴附近有一根锋利的、像手术刀一样的刺，用来防御捕食者和竞争对手，因此赢得了“刺尾鱼”的家族名称。",
+        "ru": "Желтая зебрасома — однана из самых знаковых рыб гавайских рифов. Ее ярко-желтое тело невозможно не заметить. Эти рыбы играют решающую роль в экосистеме как травоядные. Они проводят дни, плавая стаями и питаясь водорослями, растущими на кораллах. Контролируя рост водорослей, они предотвращают удушение коралловых рифов.\n\n Ночью яркий цвет желтой зебрасомы слегка тускнеет, приобретая более бледный оттенок с белой боковой полосой, что помогает ей сливаться с темной структурой рифа. У них есть острый, похожий на скальпель шип возле хвоста, который они используют для защиты от хищников и соперников, за что получили семейное название «рыбы-хирурги».",
+        "ko": "옐로우 탱은 하와이 산호초의 가장 상징적인 물고기 중 하나입니다. 밝은 전기 노란색 몸체 덕분에 눈에 띄지 않을 수 없습니다. 이 물고기는 초식 동물로서 생태계에서 중요한 역할을 합니다. 그들은 떼를 지어 헤엄치며 산호에서 자라는 해조류를 먹으며 하루를 보냅니다. 해조류를 억제함으로써 산호초가 질식하는 것을 방지합니다.\n\n 밤이 되면 옐로우 탱의 밝은 색이 약간 흐려져 흰색 측면 줄무늬가 있는 칙칙한 색조로 변하여 어두운 산호초 구조와 섞이는 데 도움이 됩니다. 꼬리 근처에 날카로운 메스 같은 가시가 있어 포식자와 경쟁자로부터 방어하는 데 사용하며, 이 때문에 '외과의사 물고기(Surgeonfish)'라는 과 이름을 얻었습니다."
+      },
+      "short_facts": {
+        "en": "A bright yellow herbivore that keeps reefs clean by eating algae. Has a sharp spine for defense.",
+        "ba": "Herbivora kuning cerah yang menjaga kebersihan terumbu dengan memakan alga. Memiliki duri tajam untuk pertahanan.",
+        "cn": "一种亮黄色的食草动物，通过吃藻类来保持珊瑚礁的清洁。尾部有用于防御的尖刺。",
+        "ru": "Ярко-желтая травоядная рыба, которая поддерживает чистоту рифов, поедая водоросли. Имеет острый шип для защиты.",
+        "ko": "해조류를 먹어 산호초를 깨끗하게 유지하는 밝은 노란색의 초식 동물입니다. 방어를 위한 날카로운 가시가 있습니다."
+      }
+    },
+    {
+      "id": "fish8",
+      "image": "images/fish8.jpg",
+      "names": {
+        "en": "Clownfish",
+        "ba": "Ikan Badut",
+        "cn": "小丑鱼",
+        "ru": "Рыба-клоун",
+        "ko": "흰동가리"
+      },
+      "facts": {
+        "en": "This specific entry highlights the fascinating reproductive cycle of the Clownfish. All clownfish begin their lives as males. They live in a strict social hierarchy based on size, with the breeding female being the largest, followed by the breeding male, and then several non-breeding juveniles.\n\n This hierarchy is strictly enforced. If the female is removed from the group, the breeding male will change sex and become the new female. The largest juvenile will then mature and become the new breeding male. This biological flexibility ensures that a mating pair can always be established without needing to find a new mate from outside the host anemone.",
+        "ba": "Entri khusus ini menyoroti siklus reproduksi Ikan Badut yang menarik. Semua ikan badut memulai hidup mereka sebagai jantan. Mereka hidup dalam hierarki sosial yang ketat berdasarkan ukuran, dengan betina yang berkembang biak menjadi yang terbesar, diikuti oleh jantan yang berkembang biak, dan kemudian beberapa remaja yang tidak berkembang biak.\n\n Hierarki ini ditegakkan dengan ketat. Jika betina dikeluarkan dari kelompok, jantan yang berkembang biak akan berubah jenis kelamin dan menjadi betina baru. Remaja terbesar kemudian akan matang dan menjadi jantan berkembang biak yang baru. Fleksibilitas biologis ini memastikan bahwa pasangan kawin selalu dapat dibentuk tanpa perlu mencari pasangan baru dari luar anemon inang.",
+        "cn": "这个特定的条目突出了小丑鱼迷人的繁殖周期。所有小丑鱼一开始都是雄性。它们生活在一个基于体型的严格社会等级制度中，繁殖雌性体型最大，其次是繁殖雄性，然后是几条不繁殖的幼鱼。\n\n 这个等级制度被严格执行。如果雌性被从群体中移除，繁殖雄性将改变性别并成为新的雌性。最大的幼鱼随后将成熟并成为新的繁殖雄性。这种生物灵活性确保了总是可以建立交配对，而无需从宿主海葵外部寻找新的配偶。",
+        "ru": "Эта конкретная запись подчеркивает увлекательный репродуктивный цикл рыб-клоунов. Все рыбы-клоуны начинают свою жизнь как самцы. Они живут в строгой социальной иерархии, основанной на размере, где размножающаяся самка является самой крупной, за ней следует размножающийся самец, а затем несколько неразмножающихся молодых особей.\n\n Эта иерархия строго соблюдается. Если самку убрать из группы, размножающийся самец сменит пол и станет новой самкой. Самая крупная молодая особь затем созреет и станет новым размножающимся самцом. Эта биологическая гибкость гарантирует, что брачная пара всегда может быть создана без необходимости искать нового партнера за пределами анемона-хозяина.",
+        "ko": "이 항목은 흰동가리의 매혹적인 번식 주기를 강조합니다. 모든 흰동가리는 수컷으로 삶을 시작합니다. 그들은 크기에 따른 엄격한 사회적 계급 속에서 살아가는데, 번식하는 암컷이 가장 크고, 그 다음이 번식하는 수컷, 그리고 번식하지 않는 여러 마리의 어린 물고기 순입니다.\n\n 이 계급은 엄격하게 시행됩니다. 암컷이 무리에서 제거되면 번식하던 수컷이 성을 바꿔 새로운 암컷이 됩니다. 그러면 가장 큰 어린 물고기가 성숙하여 새로운 번식 수컷이 됩니다. 이러한 생물학적 유연성 덕분에 숙주 말미잘 외부에서 새로운 짝을 찾을 필요 없이 항상 짝짓기 쌍을 만들 수 있습니다."
+      },
+      "short_facts": {
+        "en": "All are born male. When the dominant female dies, the breeding male changes sex to take her place.",
+        "ba": "Semua terlahir jantan. Ketika betina dominan mati, jantan yang berkembang biak akan berganti kelamin untuk menggantikannya.",
+        "cn": "所有个体出生时均为雄性。当占主导地位的雌性死亡时，繁殖的雄性会改变性别以取代她的位置。",
+        "ru": "Все рождаются самцами. Когда доминантная самка умирает, размножающийся самец меняет пол, чтобы занять ее место.",
+        "ko": "모두 수컷으로 태어납니다. 우두머리 암컷이 죽으면, 번식하던 수컷이 성을 바꿔 그 자리를 차지합니다."
+      }
+    }
+  ]
+}
