@@ -1,0 +1,216 @@
+{
+  "settings": {
+    "idleTimeoutSeconds": 45,
+    "defaultLanguage": "en"
+  },
+  "fish": [
+    {
+      "id": "fish1",
+      "image": "images/fish1.jpg",
+      "names": {
+        "en": "Clownfish",
+        "ba": "Ikan Badut",
+        "cn": "小丑鱼",
+        "ru": "Рыба-клоун",
+        "ko": "흰동가리"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "Clownfish are famous for their symbiotic relationship with sea anemones. While most fish would be stung by the anemone's tentacles, clownfish have a protective mucus layer that keeps them safe. They are also protandrous hermaphrodites, meaning they are all born male. If the dominant female dies, the largest male changes sex to take her place.\n\nFound in warmer waters of the Indian and Pacific Oceans, including the Great Barrier Reef and Red Sea. They strictly live within the tentacles of sea anemones in shallow lagoons or sheltered reefs.",
+        "ba": "Ikan badut terkenal dengan hubungan simbiosisnya dengan anemon laut. Mereka memiliki lapisan lendir pelindung yang membuat mereka aman dari sengatan anemon. Mereka juga hermafrodit protandrous, artinya semua terlahir jantan. Jika betina dominan mati, jantan terbesar akan berubah kelamin untuk menggantikannya.\n\nDitemukan di perairan hangat Samudra Hindia dan Pasifik, termasuk Great Barrier Reef dan Laut Merah. Mereka hidup secara ketat di dalam tentakel anemon laut di laguna dangkal atau terumbu terlindung.",
+        "cn": "小丑鱼以其与海葵的共生关系而闻名。它们有一层保护性的粘液层，可以防止被海葵刺伤。它们也是雄性先熟的雌雄同体生物，这意味着它们出生时都是雄性。如果占主导地位的雌性死亡，最大的雄性会改变性别来取代她的位置。\n\n发现于印度洋和太平洋的温暖水域，包括大堡礁和红海。它们严格生活在浅泻湖或受保护的珊瑚礁中的海葵触手内。",
+        "ru": "Рыбы-клоуны известны своим симбиозом с морскими анемонами. У них есть защитный слой слизи, который спасает их от ожогов. Они также являются протандрическими гермафродитами: все рождаются самцами. Если доминантная самка умирает, самый крупный самец меняет пол, чтобы занять ее место.\n\nОбитают в теплых водах Индийского и Тихого океанов, включая Большой Барьерный риф и Красное море. Они живут строго в щупальцах морских анемонов в мелководных лагунах.",
+        "ko": "흰동가리는 말미잘과의 공생 관계로 유명합니다. 보호 점액층이 있어 말미잘의 독으로부터 안전합니다. 또한 웅성 선숙 자웅동체로, 모두 수컷으로 태어납니다. 우두머리 암컷이 죽으면 가장 큰 수컷이 성을 바꿔 그 자리를 대신합니다.\n\n인도양과 태평양의 따뜻한 바다, 그레이트 배리어 리프와 홍해에서 발견됩니다. 얕은 석호나 보호된 암초에 있는 말미잘의 촉수 안에서만 생활합니다."
+      },
+      "short_facts": {
+        "en": "Lives in a symbiotic relationship with sea anemones. All are born male and can change sex.",
+        "ba": "Hidup dalam hubungan simbiosis dengan anemon laut. Semua terlahir jantan dan bisa berganti kelamin.",
+        "cn": "与海葵共生。所有个体出生时均为雄性，并可进行性别转换。",
+        "ru": "Живет в симбиозе с морскими анемонами. Все рождаются самцами и могут менять пол.",
+        "ko": "말미잘과 공생 관계에 있습니다. 모두 수컷으로 태어나며 성전환이 가능합니다."
+      }
+    },
+    {
+      "id": "fish2",
+      "image": "images/fish2.jpg",
+      "names": {
+        "en": "Mandarin Dragonet",
+        "ba": "Ikan Mandarin",
+        "cn": "麒麟鱼",
+        "ru": "Мандаринка",
+        "ko": "만다린피쉬"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "The Mandarin Dragonet displays a psychedelic pattern of blue, orange, and green. Unlike most blue animals that rely on light refraction, this species possesses true blue pigment cells called cyanophores. They are scaleless and protected by a thick, foul-tasting mucus coating.\n\nNative to the Pacific, ranging from the Ryukyu Islands to Australia. They prefer sheltered lagoons and inshore reefs, often found on silty bottoms with coral rubble where they hunt for tiny crustaceans.",
+        "ba": "Ikan Mandarin menampilkan pola psikedelik biru, oranye, dan hijau. Tidak seperti kebanyakan hewan biru yang mengandalkan pembiasan cahaya, spesies ini memiliki sel pigmen biru sejati yang disebut cyanophores. Mereka tidak bersisik dan dilindungi oleh lapisan lendir tebal yang rasanya tidak enak.\n\nBerasal dari Pasifik, mulai dari Kepulauan Ryukyu hingga Australia. Mereka lebih menyukai laguna terlindung dan terumbu karang pantai, sering ditemukan di dasar berlumpur dengan puing-puing karang.",
+        "cn": "麒麟鱼展现出蓝色、橙色和绿色的迷幻图案。与大多数依靠光折射呈现蓝色的蓝色动物不同，该物种拥有真正的蓝色色素细胞，称为青色素细胞。它们没有鳞片，并受到一层厚厚的、味道难闻的粘液层的保护。\n\n原产于太平洋，从琉球群岛到澳大利亚。它们更喜欢隐蔽的泻湖和近岸珊瑚礁，经常在有珊瑚碎石的淤泥底部被发现。",
+        "ru": "Мандаринка демонстрирует психоделический узор из синего, оранжевого и зеленого цветов. В отличие от большинства синих животных, этот вид обладает настоящими синими пигментными клетками. У них нет чешуи, и они защищены толстым слоем неприятной на вкус слизи.\n\nРодом из Тихого океана, от островов Рюкю до Австралии. Они предпочитают защищенные лагуны и прибрежные рифы, часто встречаются на илистом дне с коралловыми обломками.",
+        "ko": "만다린피쉬는 파란색, 주황색, 녹색의 환상적인 패턴을 자랑합니다. 빛의 굴절에 의존하는 대부분의 파란색 동물과 달리, 이 종은 진짜 파란색 색소 세포를 가지고 있습니다. 비늘이 없으며 맛이 고약한 두꺼운 점액질로 보호받습니다.\n\n류큐 제도에서 호주에 이르는 태평양 원산입니다. 보호된 석호와 연안 산호초를 선호하며, 종종 산호 잔해와 섞인 진흙 바닥에서 발견됩니다."
+      },
+      "short_facts": {
+        "en": "One of the most colorful fish, it has true blue pigment and a very specific diet.",
+        "ba": "Salah satu ikan paling berwarna, memiliki pigmen biru sejati dan pola makan yang sangat spesifik.",
+        "cn": "色彩最鲜艳的鱼类之一，拥有真正的蓝色素，饮食要求非常特殊。",
+        "ru": "Одна из самых красочных рыб, имеет настоящий синий пигмент и очень специфическую диету.",
+        "ko": "가장 화려한 물고기 중 하나로, 진정한 파란색 색소를 가지고 있으며 매우 특정한 식단을 가집니다."
+      }
+    },
+    {
+      "id": "fish3",
+      "image": "images/fish3.jpg",
+      "names": {
+        "en": "Sea Goldie",
+        "ba": "Ikan Emas Laut",
+        "cn": "丝鳍拟花鮨",
+        "ru": "Антиас",
+        "ko": "안티아스"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "Sea Goldies are protogynous hermaphrodites, meaning all individuals are born female. They live in harems with one dominant male. If the male disappears, the largest female changes color and gender to become the new male, ensuring the group's survival.\n\nWidespread in the Indo-West Pacific, from the Red Sea to South Africa and east to Japan and Australia. They form massive schools above coral outcrops and patch reefs.",
+        "ba": "Ikan Emas Laut adalah hermafrodit protogini, artinya semua individu terlahir betina. Mereka hidup dalam harem dengan satu jantan dominan. Jika jantan menghilang, betina terbesar berubah warna dan jenis kelamin menjadi jantan baru.\n\nTersebar luas di Indo-Pasifik Barat, dari Laut Merah hingga Afrika Selatan dan timur hingga Jepang dan Australia. Mereka membentuk kelompok besar di atas singkapan karang.",
+        "cn": "丝鳍拟花鮨是雌性先熟的雌雄同体生物，这意味着所有个体出生时都是雌性。它们生活在有一个占主导地位的雄性的后宫中。如果雄性消失，最大的雌性会改变颜色和性别成为新的雄性。\n\n广泛分布于印度-西太平洋，从红海到南非，东至日本和澳大利亚。它们在珊瑚露头和斑块礁上方形成巨大的鱼群。",
+        "ru": "Антиасы — протогинные гермафродиты, то есть все рождаются самками. Они живут в гаремах с одним доминантным самцом. Если самец исчезает, самая крупная самка меняет цвет и пол, становясь новым самцом.\n\nШироко распространены в Индо-Вест-Пацифике, от Красного моря до Южной Африки и на восток до Японии и Австралии. Они образуют массивные стаи над коралловыми выступами.",
+        "ko": "안티아스는 자성 선숙 자웅동체로, 모두 암컷으로 태어납니다. 우두머리 수컷 한 마리와 함께 하렘을 이루어 삽니다. 수컷이 사라지면 가장 큰 암컷이 색과 성별을 바꿔 새로운 수컷이 됩니다.\n\n홍해에서 남아프리카, 동쪽으로 일본과 호주에 이르는 인도-서태평양에 널리 분포합니다. 산호 노두와 조각 암초 위에서 거대한 떼를 형성합니다."
+      },
+      "short_facts": {
+        "en": "Born female, the most dominant can transform into a male for the harem.",
+        "ba": "Terlahir sebagai betina, yang paling dominan dapat berubah menjadi jantan untuk harem.",
+        "cn": "出生时为雌性，最具统治力的个体会转变为雄性，主宰后宫。",
+        "ru": "Рождаются самками, но самая доминантная может превратиться в самца для гарема.",
+        "ko": "암컷으로 태어나며, 가장 우세한 개체는 하렘을 위해 수컷으로 변신할 수 있습니다."
+      }
+    },
+    {
+      "id": "fish4",
+      "image": "images/fish4.jpg",
+      "names": {
+        "en": "Copperband Butterflyfish",
+        "ba": "Ikan Kepe-Kepe Tembaga",
+        "cn": "钻嘴鱼",
+        "ru": "Меднополосая бабочка",
+        "ko": "카퍼밴드 버터플라이피쉬"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "This fish has a long, slender snout used to pick small invertebrates from narrow crevices. It also features a false eyespot on the rear of its dorsal fin. This spot confuses predators into attacking the wrong end of the fish, giving it a chance to escape.\n\nDistributed in the Pacific and Indian Oceans, from the Andaman Sea to the Ryukyu Islands and Australia. They prefer rocky and coral reefs, as well as estuarine silty areas.",
+        "ba": "Ikan ini memiliki moncong panjang dan ramping untuk mengambil invertebrata dari celah sempit. Ia juga memiliki bintik mata palsu di sirip punggungnya. Bintik ini membingungkan predator untuk menyerang ujung yang salah, memberinya kesempatan untuk melarikan diri.\n\nTersebar di Samudra Pasifik dan Hindia, dari Laut Andaman hingga Kepulauan Ryukyu dan Australia. Mereka menyukai terumbu karang dan berbatu, serta daerah berlumpur muara.",
+        "cn": "这种鱼有一个细长的吻部，用来从狭窄的缝隙中挑选小型无脊椎动物。它的背鳍后部还有一个假眼斑。这个斑点会迷惑捕食者攻击错误的一端，从而给它逃跑的机会。\n\n分布于太平洋和印度洋，从安达曼海到琉球群岛和澳大利亚。它们更喜欢岩石和珊瑚礁，以及河口淤泥区。",
+        "ru": "У этой рыбы длинное тонкое рыло, используемое для добычи беспозвоночных из узких щелей. У нее также есть ложное глазное пятно на спинном плавнике. Это пятно сбивает хищников с толку, заставляя атаковать не тот конец, что дает шанс спастись.\n\nРаспространены в Тихом и Индийском океанах, от Андаманского моря до Австралии. Предпочитают скалистые и коралловые рифы.",
+        "ko": "이 물고기는 좁은 틈새에서 작은 무척추동물을 잡아먹기 위해 길고 가느다란 주둥이를 가지고 있습니다. 또한 등지느러미 뒤쪽에 가짜 눈무늬가 있어 포식자가 엉뚱한 곳을 공격하게 만들어 도망칠 기회를 줍니다.\n\n안다만 해에서 류큐 제도 및 호주에 이르는 태평양과 인도양에 분포합니다. 바위와 산호초, 그리고 강어귀의 진흙 지역을 선호합니다."
+      },
+      "short_facts": {
+        "en": "Uses its long snout to hunt in crevices and has a false eyespot to confuse predators.",
+        "ba": "Menggunakan moncong panjangnya untuk berburu di celah-celah dan memiliki bintik mata palsu untuk membingungkan predator.",
+        "cn": "用其长吻在缝隙中捕食，并有一个假眼点来迷惑捕食者。",
+        "ru": "Использует свой длинный нос для охоты в расщелинах и имеет ложный глаз, чтобы сбить с толку хищников.",
+        "ko": "긴 주둥이를 사용해 틈새에서 사냥하며, 포식자를 혼란시키기 위한 가짜 눈 점이 있습니다."
+      }
+    },
+    {
+      "id": "fish5",
+      "image": "images/fish5.jpg",
+      "names": {
+        "en": "Moon Wrasse",
+        "ba": "Ikan Nuri",
+        "cn": "新月锦鱼",
+        "ru": "Лунный талассома",
+        "ko": "문 래스"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "The Moon Wrasse is a hyperactive swimmer that 'flies' through the water using its pectoral fins instead of its tail. Like many wrasses, they have a unique sleeping habit: they bury themselves completely in the sand at night to hide from nocturnal predators.\n\nFound throughout the Indo-Pacific region. They are active swimmers in upper reef slopes and lagoons, often found in areas with rich coral growth and clear water.",
+        "ba": "Ikan Nuri adalah perenang hiperaktif yang 'terbang' di air menggunakan sirip dadanya. Seperti banyak ikan nuri lainnya, mereka memiliki kebiasaan tidur yang unik: mereka mengubur diri sepenuhnya di pasir pada malam hari untuk bersembunyi dari predator.\n\nDitemukan di seluruh wilayah Indo-Pasifik. Mereka adalah perenang aktif di lereng terumbu atas dan laguna, sering ditemukan di daerah dengan pertumbuhan karang yang kaya.",
+        "cn": "新月锦鱼是一种极其活跃的游泳者，利用胸鳍而不是尾巴在水中“飞行”。像许多隆头鱼一样，它们有一个独特的睡眠习惯：晚上把自己完全埋在沙子里，以躲避夜行性捕食者。\n\n遍布印度-太平洋地区。它们是上层礁坡和泻湖中的活跃游泳者，经常在珊瑚生长丰富且水质清澈的区域被发现。",
+        "ru": "Лунный талассома — гиперактивный пловец, который «летает» в воде с помощью грудных плавников. У них уникальная привычка спать: ночью они полностью зарываются в песок, чтобы спрятаться от хищников.\n\nВстречаются по всему Индо-Тихоокеанскому региону. Активно плавают на верхних склонах рифов и в лагунах с чистой водой.",
+        "ko": "문 래스는 꼬리 대신 가슴지느러미를 사용하여 물속을 '날아다니는' 매우 활동적인 물고기입니다. 다른 래스류와 마찬가지로 독특한 수면 습관이 있는데, 밤에는 야행성 포식자로부터 숨기 위해 모래 속에 완전히 몸을 파묻습니다.\n\n인도-태평양 전역에서 발견됩니다. 상부 암초 경사면과 석호에서 활발하게 헤엄치며, 종종 산호가 풍부하고 물이 맑은 곳에서 발견됩니다."
+      },
+      "short_facts": {
+        "en": "An energetic swimmer that 'flies' with its pectoral fins and buries itself in sand to sleep.",
+        "ba": "Perenang energik yang 'terbang' dengan sirip dada dan mengubur diri di pasir untuk tidur.",
+        "cn": "一种精力充沛的游泳者，用胸鳍“飞行”，并把自己埋在沙子里睡觉。",
+        "ru": "Энергичный пловец, который «летает» с помощью грудных плавников и зарывается в песок, чтобы спать.",
+        "ko": "가슴지느러미로 '날아다니는' 활기찬 수영 선수이며, 잠을 자기 위해 모래 속에 몸을 묻습니다."
+      }
+    },
+    {
+      "id": "fish6",
+      "image": "images/fish6.jpg",
+      "names": {
+        "en": "Blue Tang",
+        "ba": "Ikan Dori",
+        "cn": "拟刺尾鲷",
+        "ru": "Голубой хирург",
+        "ko": "블루 탱"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "Recognized globally as 'Dory', the Blue Tang is a surgeonfish with a secret weapon: a sharp, venomous spine at the base of its tail used for defense. When faced with a predator, they are known to 'play dead' by lying on their side and remaining motionless until the danger passes.\n\nNative to the Indo-Pacific, they prefer the clear, current-swept terraces of seaward reefs. They are often found wedging themselves into branching coral heads to sleep or hide from predators.",
+        "ba": "Dikenal sebagai 'Dory', Ikan Dori memiliki senjata rahasia: duri tajam dan berbisa di pangkal ekornya untuk pertahanan. Saat menghadapi predator, mereka dikenal 'pura-pura mati' dengan berbaring miring dan tetap diam sampai bahaya berlalu.\n\nBerasal dari Indo-Pasifik, mereka lebih menyukai teras terumbu karang yang jernih dan berarus deras. Mereka sering ditemukan menyelipkan diri ke dalam kepala karang bercabang untuk tidur atau bersembunyi.",
+        "cn": "拟刺尾鲷（蓝倒吊）也就是著名的“多莉”，它有一种秘密武器：尾巴根部有一根锋利的毒刺，用于防御。当面对捕食者时，它们会侧卧并保持静止“装死”，直到危险过去。\n\n原产于印度-太平洋，它们更喜欢水流湍急的向海礁石露台。它们经常把自己挤进分枝的珊瑚头里睡觉或躲避捕食者。",
+        "ru": "Известный как «Дори», голубой хирург имеет секретное оружие: острый ядовитый шип у основания хвоста. При встрече с хищником они могут «притвориться мертвыми», ложась на бок и оставаясь неподвижными.\n\nРодом из Индо-Тихоокеанского региона, они предпочитают чистые, омываемые течением террасы рифов. Они часто вклиниваются в ветвящиеся кораллы, чтобы поспать или спрятаться.",
+        "ko": "'도리'로 잘 알려진 블루 탱은 꼬리 밑부분에 방어용으로 사용하는 날카로운 독침이라는 비밀 무기를 가지고 있습니다. 포식자와 마주치면 옆으로 누워 위험이 지나갈 때까지 움직이지 않고 '죽은 척'하는 것으로 알려져 있습니다.\n\n인도-태평양 원산으로, 맑고 조류가 빠른 바다 쪽 암초 테라스를 선호합니다. 종종 잠을 자거나 포식자를 피하기 위해 가지가 있는 산호 머리 사이에 몸을 끼워 넣습니다."
+      },
+      "short_facts": {
+        "en": "Famous for 'playing dead' when threatened and has a sharp spine on its tail.",
+        "ba": "Terkenal karena 'pura-pura mati' saat terancam dan memiliki duri tajam di ekornya.",
+        "cn": "以受威胁时“装死”而闻名，尾部有尖刺。",
+        "ru": "Известна тем, что «притворяется мертвой» при угрозе, и имеет острый шип на хвосте.",
+        "ko": "위협을 받으면 '죽은 척'하는 것으로 유명하며 꼬리에 날카로운 가시가 있습니다."
+      }
+    },
+    {
+      "id": "fish7",
+      "image": "images/fish7.jpg",
+      "names": {
+        "en": "Yellow Tang",
+        "ba": "Ikan Tang Kuning",
+        "cn": "黄高鳍刺尾鱼",
+        "ru": "Желтая зебрасома",
+        "ko": "옐로우 탱"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "The Yellow Tang plays a crucial role in the ecosystem as a grazer, feeding on algae that would otherwise smother coral reefs. At night, their bright color fades to a duller shade with a white lateral stripe to help them blend in. They possess a sharp, scalpel-like spine near their tail for defense.\n\nPrimarily found in the North Pacific, specifically Hawaii and the Ryukyu Islands. They inhabit shallow reefs and are essential for controlling algae growth on corals.",
+        "ba": "Ikan Tang Kuning berperan penting sebagai pemakan rumput, memakan alga yang dapat menutupi terumbu karang. Di malam hari, warnanya memudar untuk penyamaran. Mereka memiliki duri tajam seperti pisau bedah di dekat ekornya untuk pertahanan.\n\nTerutama ditemukan di Pasifik Utara, khususnya Hawaii dan Kepulauan Ryukyu. Mereka menghuni terumbu dangkal dan sangat penting untuk mengendalikan pertumbuhan alga.",
+        "cn": "黄高鳍刺尾鱼作为食草动物发挥着至关重要的作用，以藻类为食，防止其窒息珊瑚礁。晚上，它们的颜色会变暗以伪装。它们的尾巴附近有一根锋利的、像手术刀一样的刺用于防御。\n\n主要发现于北太平洋，特别是夏威夷和琉球群岛。它们栖息在浅礁中，对于控制珊瑚上的藻类生长至关重要。",
+        "ru": "Желтая зебрасома играет важную роль, поедая водоросли, которые могут задушить кораллы. Ночью их цвет тускнеет для маскировки. У них есть острый шип возле хвоста для защиты.\n\nВ основном встречаются в северной части Тихого океана, особенно на Гавайях. Они обитают на мелководных рифах и необходимы для контроля роста водорослей.",
+        "ko": "옐로우 탱은 산호초를 질식시킬 수 있는 해조류를 먹어치우는 중요한 역할을 합니다. 밤에는 위장을 위해 색이 흐려집니다. 꼬리 근처에 방어를 위한 날카로운 메스 같은 가시가 있습니다.\n\n주로 북태평양, 특히 하와이와 류큐 제도에서 발견됩니다. 얕은 암초에 서식하며 산호의 해조류 성장을 억제하는 데 필수적입니다."
+      },
+      "short_facts": {
+        "en": "A bright yellow herbivore that keeps reefs clean by eating algae. Has a sharp spine for defense.",
+        "ba": "Herbivora kuning cerah yang menjaga kebersihan terumbu dengan memakan alga. Memiliki duri tajam untuk pertahanan.",
+        "cn": "一种亮黄色的食草动物，通过吃藻类来保持珊瑚礁的清洁。尾部有用于防御的尖刺。",
+        "ru": "Ярко-желтая травоядная рыба, которая поддерживает чистоту рифов, поедая водоросли. Имеет острый шип для защиты.",
+        "ko": "해조류를 먹어 산호초를 깨끗하게 유지하는 밝은 노란색의 초식 동물입니다. 방어를 위한 날카로운 가시가 있습니다."
+      }
+    },
+    {
+      "id": "fish8",
+      "image": "images/fish8.jpg",
+      "names": {
+        "en": "Emperor Angelfish",
+        "ba": "Ikan Angel Kaisar",
+        "cn": "皇帝神仙鱼",
+        "ru": "Императорский ангел",
+        "ko": "엠페러 엔젤피쉬"
+      },
+      "conservation": "LC",
+      "facts": {
+        "en": "The Emperor Angelfish undergoes a dramatic transformation. Juveniles are dark blue with electric blue and white concentric rings, while adults display yellow and blue horizontal stripes with a black mask. They can also produce a low-frequency 'knocking' sound when threatened.\n\nWidespread in the Indo-Pacific, from East Africa to Hawaii. Juveniles are typically found hiding under ledges in shallow waters, while the majestic adults patrol open reef slopes and caves.",
+        "ba": "Ikan Angel Kaisar mengalami transformasi dramatis. Remaja berwarna biru tua dengan cincin konsentris biru dan putih, sedangkan dewasa menampilkan garis-garis horizontal kuning dan biru. Mereka juga dapat menghasilkan suara 'ketukan' frekuensi rendah saat terancam.\n\nTersebar luas di Indo-Pasifik, dari Afrika Timur hingga Hawaii. Remaja biasanya bersembunyi di bawah tepian di perairan dangkal, sementara dewasa berpatroli di lereng terumbu terbuka.",
+        "cn": "皇帝神仙鱼经历了巨大的转变。幼鱼呈深蓝色，带有电蓝色和白色的同心圆环，而成鱼则呈现黄色和蓝色的水平条纹。受到威胁时，它们还会发出低频的“敲击”声。\n\n广泛分布于印度-太平洋，从东非到夏威夷。幼鱼通常躲在浅水的岩架下，而成年鱼则在开阔的礁坡和洞穴中巡逻。",
+        "ru": "Императорский ангел претерпевает кардинальную трансформацию. Молодь темно-синяя с концентрическими кольцами, а взрослые особи имеют желто-синие полосы. При угрозе они могут издавать низкочастотный «стучащий» звук.\n\nШироко распространены в Индо-Тихоокеанском регионе. Молодь прячется под уступами на мелководье, а взрослые патрулируют открытые склоны рифов.",
+        "ko": "엠페러 엔젤피쉬는 극적인 변화를 겪습니다. 어린 물고기는 짙은 파란색에 동심원 고리가 있는 반면, 성체는 노란색과 파란색의 가로 줄무늬가 있습니다. 위협을 받으면 저주파의 '노크' 소리를 낼 수도 있습니다.\n\n동아프리카에서 하와이까지 인도-태평양에 널리 분포합니다. 어린 물고기는 얕은 물의 바위 아래 숨어 지내며, 성체는 개방된 암초 경사면과 동굴을 순찰합니다."
+      },
+      "short_facts": {
+        "en": "Juveniles look completely different from adults, having circular patterns instead of stripes.",
+        "ba": "Remaja terlihat sangat berbeda dari dewasa, memiliki pola melingkar, bukan garis-garis.",
+        "cn": "幼鱼看起来与成鱼完全不同，有圆形图案而不是条纹。",
+        "ru": "Молодь выглядит совершенно иначе, чем взрослые, имея круговые узоры вместо полос.",
+        "ko": "어린 물고기는 성체와 완전히 다르게 생겼으며, 줄무늬 대신 원형 패턴을 가지고 있습니다."
+      }
+    }
+  ]
+}

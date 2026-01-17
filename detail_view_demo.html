@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fishopedia Demo</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+        }
+
+        /* List View Styles */
+        #fish-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+            justify-content: center;
+        }
+
+        .fish-card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            width: 200px;
+            cursor: pointer;
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+
+        .fish-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .fish-card img {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+        }
+
+        .fish-card h3 {
+            margin: 0;
+            padding: 15px;
+            text-align: center;
+            font-size: 1.1rem;
+        }
+
+        /* Detail View Styles */
+        #detail-view {
+            display: none; /* Hidden by default */
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: white;
+            overflow-y: auto; /* Enable scrolling */
+            z-index: 1000;
+        }
+
+        .hero-image {
+            width: 100%;
+            height: 100vh; /* Occupy full viewport height */
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+
+        .back-button {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 10px 20px;
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 1rem;
+        }
+
+        .fish-details {
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            min-height: 50vh; /* Ensure enough space to scroll */
+        }
+
+        .fish-details h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .fish-details p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Container for the list of fish -->
+    <div id="fish-list">
+        <!-- Cards will be injected here by JS -->
+    </div>
+
+    <!-- Container for the detail view -->
+    <div id="detail-view">
+        <div class="hero-image" id="detail-image">
+            <button class="back-button" onclick="closeDetail()">← Back</button>
+        </div>
+        <div class="fish-details">
+            <h1 id="detail-name"></h1>
+            <p id="detail-fact"></p>
+            <!-- Placeholder text to demonstrate scrolling -->
+            <p style="margin-top: 50px; color: #888;">
+                Scroll down to see the image disappear...<br><br>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Simulating fetching your data.json
+        const fishData = [
+            { id: "fish1", image: "images/fish1.jpg", names: { en: "Clownfish" }, facts: { en: "Clownfish live among stinging anemones for protection." } },
+            { id: "fish2", image: "images/fish2.jpg", names: { en: "Mandarin Dragonet" }, facts: { en: "They are one of the few fish species that produce their own blue pigment." } },
+            { id: "fish3", image: "images/fish3.jpg", names: { en: "Sea Goldie" }, facts: { en: "They are born female, but the dominant one can change into a male." } }
+        ];
+
+        const listContainer = document.getElementById('fish-list');
+        const detailView = document.getElementById('detail-view');
+        const detailImage = document.getElementById('detail-image');
+        const detailName = document.getElementById('detail-name');
+        const detailFact = document.getElementById('detail-fact');
+
+        // Render Fish Cards
+        fishData.forEach(fish => {
+            const card = document.createElement('div');
+            card.className = 'fish-card';
+            card.innerHTML = `
+                <img src="${fish.image}" alt="${fish.names.en}">
+                <h3>${fish.names.en}</h3>
+            `;
+            card.onclick = () => openDetail(fish);
+            listContainer.appendChild(card);
+        });
+
+        // Open Detail Page
+        function openDetail(fish) {
+            // Set the full screen image
+            detailImage.style.backgroundImage = `url('${fish.image}')`;
+            detailName.textContent = fish.names.en;
+            detailFact.textContent = fish.facts.en;
+            
+            // Show the view
+            detailView.style.display = 'block';
+        }
+
+        // Close Detail Page
+        function closeDetail() {
+            detailView.style.display = 'none';
+        }
+    </script>
+</body>
+</html>
